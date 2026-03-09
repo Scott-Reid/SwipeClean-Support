@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SwipeClean Support</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      max-width: 700px;
+      margin: 40px auto;
+      line-height: 1.6;
+      color: #333;
+      padding: 0 20px;
+    }
+    h1 {
+      color: #1e90ff;
+      text-align: center;
+      margin-bottom: 1rem;
+    }
+    h2 {
+      margin-top: 2rem;
+      color: #555;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    a {
+      color: #1e90ff;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    p {
+      margin: 0.5rem 0;
+    }
+  </style>
+</head>
+<body>
+  <h1>SwipeClean: Photo Cleaner Support</h1>
+
+  <p>Thanks for using <strong>SwipeClean: Photo Cleaner</strong>! If you need help, have a bug report, or questions about subscriptions, please use the information below to get in touch.</p>
+
+  <h2>Contact Support</h2>
+  <p><strong>Email:</strong> <a href="mailto:scott.reid@hotmail.ca">scott.reid@hotmail.ca</a></p>
+  <p>We typically respond within 24 hours.</p>
+
+  <h2>Common Questions</h2>
+  <ul>
+    <li><strong>Restore Purchases:</strong> Open SwipeClean → Settings → Restore Purchases</li>
+    <li><strong>Cancel Subscription:</strong> Manage your subscription via your Apple ID settings</li>
+    <li><strong>Report a Bug:</strong> Include your device model and a short description, then email support</li>
+  </ul>
+
+  <h2>Privacy & Safety</h2>
+  <p>SwipeClean does not share your personal photos or data with third parties. For more info, see our <a href="https://swipeclean.app/privacy">Privacy Policy</a>.</p>
+
+  <p style="text-align:center; margin-top:3rem;">Thank you for using SwipeClean!</p>
+</body>
+</html>
